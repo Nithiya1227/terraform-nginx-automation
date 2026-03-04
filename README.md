@@ -95,7 +95,7 @@ This project marks my transition from manual server setup to fully automated inf
 ![security group](screenshots/sg-auto-tf.png)
 
 ### Website Output
-![Website Output](screenshots/Output-auto-tf.png)
+![Website Output](screenshots/output-auto-tf.png)
 
 
 -----
