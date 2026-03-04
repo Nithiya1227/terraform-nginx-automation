@@ -82,20 +82,20 @@ This project marks my transition from manual server setup to fully automated inf
 
 ## Screenshots
 
-### Terraform Apply
-![Terraform Apply](screenshots/terraform-apply.png)
+### Main.tf file
+![Terraform Main.tf](screenshots/main.tf-auto.png)
 
 ### Terraform Apply
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](screenshots/tf-apply-auto.png)
 
 ### EC2 Instance Running
-![EC2 Running](screenshots/ec2-running.png)
+![EC2 Running](screenshots/ec2-auto-tf.png)
 
 ### Website Output
-![Website Output](screenshots/website-output.png)
+![security group](screenshots/sg-auto-tf.png)
 
-### Terraform Apply
-![Terraform Apply](screenshots/terraform-apply.png)
+### Website Output
+![Website Output](screenshots/Output-auto-tf.png)
 
 
 -----
